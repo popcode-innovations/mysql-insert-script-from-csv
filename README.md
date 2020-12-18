@@ -3,4 +3,4 @@
 
 Usage
 
-  - python script.py <filePath> <tableName>
+  - python script.py #filePath #tableName
